@@ -1,4 +1,4 @@
-##Proposal
+###Proposal
 
 #What problem does your app solve?
 There is a strong need in the trip taking community to consolidate their adventure and share it with the ones they care about. As of right now, one would have to jump through hoops to share the content and update their travel lists simultaneously.
