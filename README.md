@@ -27,7 +27,7 @@ Features
 * Travel Diaries: Allows the user to share features from the trip with whoever they want. Has a map function. Can turn your journal entry into a blog and print it out and make it a book.
 * Driftr: A place to share photos and videos of your trip to the app that can be viewed by anyone.  Instagram for travelers.
 
-### Frameworks - Libraries
+## Frameworks - Libraries
 
 ## What 3rd party frameworks/libraries are you considering using?
 # FOR REACT DEV
@@ -68,5 +68,5 @@ No We are accessing a local api for the moment {FE }
 
 ### Prototype Key Feature(s)
 
-## this is the “bread and butter” of the app, this is what makes your app yours. Calculate how long it takes to implement these features and triple the time estimated. That way you’ll have plenty of time to finish. It is preferred to drop features and spend more time working on your MVP features if needed.
+### this is the “bread and butter” of the app, this is what makes your app yours. Calculate how long it takes to implement these features and triple the time estimated. That way you’ll have plenty of time to finish. It is preferred to drop features and spend more time working on your MVP features if needed.
 
