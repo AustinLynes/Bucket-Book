@@ -2,6 +2,7 @@
   "name": "bucket-book",
   "version": "0.1.0",
   "private": true,
+  "repository": {"url": "https://github.com/AustinLynes/Bucket-Book.git"},
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
