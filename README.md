@@ -30,7 +30,7 @@ Features
 ### Frameworks - Libraries
 
 ## What 3rd party frameworks/libraries are you considering using?
-## FOR REACT DEV
+# FOR REACT DEV
 Styled-components { allows us to pass props to each component we create through state and make the user interface more user oriented by allowing the to customize their experience }, 
 react-bootstrap { simple lightweight framework library for modals and more advanced components that would take long to create}, 
 axios { for our api .get.post requests } , 
